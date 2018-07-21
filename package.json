@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/beres-node/hello-express",
   "author": "Yosef Benny Widyokarsono <fybwid@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
