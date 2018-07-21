@@ -1,0 +1,9 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "Learn server-side website programming with Express Js",
+  "main": "index.js",
+  "repository": "https://github.com/beres-node/hello-express",
+  "author": "Yosef Benny Widyokarsono <fybwid@gmail.com>",
+  "license": "MIT"
+}
